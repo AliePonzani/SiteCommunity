@@ -1,0 +1,33 @@
+.telasVendedores{
+    display: grid;
+    justify-content: center;
+    gap: 15px;
+}
+
+.dadosVendedor{
+    border: 1px solid;
+    width: 600px;
+    height: 180px;
+    border-radius: 20px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+.dadosVendedor label{
+    width: 300px;
+    display: flex;
+    padding: 5px;
+  }
+
+img{
+  width: 200px;
+}
+/*   .dadosVendedor input{
+    border: none;
+    background-color: transparent;
+    height: 10px;
+    outline: none;
+    overflow: hidden;
+    font-family: sans-serif;
+  } */

@@ -1,0 +1,21 @@
+.vendedor{
+    background-color: transparent;
+    padding: 10px 18px;
+    border: none;
+    color: black;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: auto;
+}
+
+.cliente{
+    background-color: transparent;
+    padding: 10px 24px;
+    border: none;
+    border-bottom: solid rgb(121, 120, 120);
+    border-right: solid rgb(121, 120, 120);
+    color: rgba(0, 0, 0, 0.272);
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+}

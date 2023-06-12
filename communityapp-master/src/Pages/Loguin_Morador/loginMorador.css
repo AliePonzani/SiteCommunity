@@ -1,0 +1,21 @@
+.clienteMorador{
+    background-color: transparent;
+    padding: 10px 18px;
+    border: none;
+    color: black;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: auto;
+}
+
+.vendedorMorador{
+    background-color: transparent;
+    padding: 10px 24px;
+    border: none;
+    border-left: solid rgb(121, 120, 120);
+    border-bottom: solid rgb(121, 120, 120);
+    color: rgba(0, 0, 0, 0.272);
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+}
